@@ -10,6 +10,9 @@ A HuggingFace repository was used to strore the datasets that were used as well 
 
 **HuggingFace repository URL**: https://huggingface.co/UC3M-LCPM
 
+## **PAPER URL**
+URL: https://ceur-ws.org/Vol-3756/DIPROMATS2024_paper3.pdf
+
 ## Datasets
 This folder contains all files regarding the datasets that were used in the competition, including the original training and testing datasets that were provided and the Python notebooks that were used to format them.
 
